@@ -1,3 +1,6 @@
+# File is to big for Github so download here
+https://www.mediafire.com/folder/e82s1ssw6pu6x/GM_AddonInstaller
+Also if you whant https://www.virustotal.com/gui/home/upload
 # GM_AddonInstaller
 THE #1 BEST GMOD ADDON INSTALLER WITH EVERY THING IN IT NO OTHER DOWNLOAD REQUIRED JUST THE DEPENDANCE AND PYTHON
 I WILL CAN POSSIBLE MAKE AN WORKSHOP DOWNLOADER FOR EVERY GAME AN ULTIMATE ALSO LOT OF UPDATE WILL REALESE FOR THE OPTIMIZATION AND STABILITIE 
